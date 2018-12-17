@@ -1,6 +1,6 @@
-��ʵ��"���뵼��Excel"��DjangoСӦ�þ������¹��ܵ㣺
+可实现"导入导出Excel"的Django小应用具有如下功能点：
 
-�ɶ�װ��QQ�û���Ϣ��Excel���С�ʹ��Python�ű����롱;
-�ɶ�QQ�û���Ϣ���С��˹�¼�롱;
-�ɶ�QQ�û���Ϣ����С����ݿ������;
-�ɶ�װ��QQ�û���Ϣ��Excel���С����򵼳�����
+1. 可对装有QQ用户信息的Excel进行“使用Python脚本导入”;
+2. 可对QQ用户信息进行“人工录入”;
+3. 可对QQ用户信息库进行“数据库操作”;
+4. 可对装有QQ用户信息的Excel进行“程序导出”。
